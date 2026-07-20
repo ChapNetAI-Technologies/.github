@@ -25,11 +25,11 @@ Our work focuses on developing software across a wide range of disciplines, incl
 - Digital Media Platforms
 - Interactive Experiences
 - Knowledge Management
-- Privacy & Security
+- Privacy and Security
 - Cloud Services
 - Developer Tools
 - Automation
-- Games & Interactive Entertainment
+- Games and Interactive Entertainment
 
 ---
 
@@ -67,7 +67,7 @@ Selected projects, libraries, and tools may be released as open source to contri
 
 ## Connect
 
-GitHub Organization:
+**GitHub Organization:**  
 https://github.com/ChapNetAI-Technologies
 
 More information will become available as new projects are released.
